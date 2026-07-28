@@ -43,6 +43,19 @@ source .venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
+### 7. LLM & Vector Database
+
+
+**Use groq to use open souce model**
+```
+keep your groq apikey and base url in .env file
+```
+**Qdrant cloud is used as vector database**
+
+```
+keep your secret apikey and url in .env file
+```
+`you can also use paid version of openai`
 
 ### 6. Dataset
 
