@@ -43,7 +43,7 @@ source .venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
-### 7. LLM & Vector Database
+### 6. LLM & Vector Database
 
 
 **Use groq to use open souce model**
@@ -57,7 +57,7 @@ keep your secret apikey and url in .env file
 ```
 `you can also use paid version of openai`
 
-### 6. Dataset
+### 7. Dataset
 
 `Dummy Data is in pdf format`
 `pages- 16`
