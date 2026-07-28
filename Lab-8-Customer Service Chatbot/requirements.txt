@@ -1,0 +1,25 @@
+# Core LangChain packages
+langchain
+langchain-community
+langchain-openai
+langchain-qdrant
+langchain-classic
+
+# Vector Database
+qdrant-client==1.16.2
+
+# Document Processing
+pypdf==6.5.0
+
+# Environment Variables
+python-dotenv==1.2.1
+
+# Web UI
+streamlit==1.52.2
+
+# Database (for chat history)
+sqlalchemy==2.0.45
+
+# Text Processing
+langchain-text-splitters==1.1.0
+
