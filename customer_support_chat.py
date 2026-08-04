@@ -84,11 +84,7 @@ Use the following context to answer the user's question:
         document_variable_name="context"
     )
     
-    # Build RAG chain: retrieve -> combine documents with prompt -> generate answer
-    # The chain structure:
-    # 1. Retrieve documents based on input["input"]
-    # 2. Pass documents + input + chat_history to combine_docs_chain
-    # 3. combine_docs_chain formats docs and generates answer
+    
     def get_context(x):
         # print("Relevant Chunks:")
         context = retriever.invoke(x.get("input", "")) #Retrieve relevant chunks
