@@ -1,0 +1,62 @@
+[
+    {
+        "user_input": "What is SolarNova Dynamics?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "SolarNova Dynamics is a pioneering renewable energy company committed to transforming the way households and businesses consume energy. Founded on the principles of sustainability, innovation, and affordability, they provide comprehensive renewable energy solutions that reduce carbon footprints while delivering significant cost savings to clients."
+    },
+    {
+        "user_input": "What are the main products offered by SolarNova Dynamics?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "Solar Panels (400W at $300), Hybrid Inverter ($1,200), Wind Turbine Kit ($8,500), Energy Storage Battery ($2,500), Smart Thermostat ($150), LED Light Bulbs ($25 for 10 pack), Solar Water Heater ($1,500), Installation Toolkit ($100), EV Charger Level 2 ($1,000), and Insulated Roof Panels ($50)."
+    },
+    {
+        "user_input": "What services does SolarNova Dynamics provide?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "SolarNova Dynamics provides five main services: 1) Solar Panel Installation (residential and commercial), 2) Energy Storage Solutions, 3) Wind Turbine Installation, 4) Energy Audits & Consulting, and 5) Smart Home Integration."
+    },
+    {
+        "user_input": "How much does the Basic Residential solar installation package cost?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "The Basic Residential package (5kW Solar System) costs $12,500 and includes 12 panels, inverter, installation, and monitoring."
+    },
+    {
+        "user_input": "What is the warranty period for solar panels from SolarNova Dynamics?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "All solar panels come with a 25-year performance warranty guaranteeing at least 80% efficiency after 25 years, plus a 10-year product warranty covering manufacturing defects. Installation workmanship is warranted for 10 years."
+    },
+    {
+        "user_input": "What financing options does SolarNova Dynamics offer?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "Solar loans with rates as low as 2.99% APR, zero-down payment options, Power Purchase Agreements (PPAs), solar leases, and home equity financing assistance."
+    },
+    {
+        "user_input": "What is the expected payback period for residential solar systems?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "Most residential systems pay for themselves in 5-8 years through electricity savings and incentives. After the payback period, customers enjoy 15-20+ years of essentially free electricity. Commercial systems typically have payback periods of 3-6 years."
+    },
+    {
+        "user_input": "What is SolarNova Dynamics' current environmental impact?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "6,500 tons of CO2 prevented, 12 MW of total clean energy capacity installed, powering 450 homes, which is equivalent to 18 million trees in terms of CO2 savings."
+    },
+    {
+        "user_input": "What are the specifications of the 400W solar panel?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "The solar panel is 400W, monocrystalline with 21% efficiency and a 25-year warranty, priced at $300 per unit with 500 units in stock."
+    },
+    {
+        "user_input": "What monitoring capabilities does SolarNova Dynamics provide?",
+        "retrieved_contexts": [],
+        "response": "",
+        "reference": "Real-time energy monitoring through a proprietary mobile app that provides tracking of energy production, consumption, battery levels, and savings. The app includes alerts for system issues, detailed analytics and reporting, and predictive maintenance alerts using AI optimization."
+    }
+]
