@@ -23,3 +23,5 @@ sqlalchemy==2.0.45
 # Text Processing
 langchain-text-splitters==1.1.0
 
+# Evalaution
+ragas==0.4.2
